@@ -1,3 +1,11 @@
+<img src="https://github.com/Omar7tech/screenshots/blob/main/Bit7-home.png" alt="Screenshot 1" width="100%">
+<img src="https://github.com/Omar7tech/screenshots/blob/main/Bit7-login.png" alt="Screenshot 1" width="100%">
+<img src="https://github.com/Omar7tech/screenshots/blob/main/Bit7-links.png" alt="Screenshot 1" width="100%">
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
